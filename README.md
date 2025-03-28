@@ -1,0 +1,2 @@
+# yacht
+play Yacht Dice
